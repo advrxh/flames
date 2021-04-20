@@ -21,3 +21,8 @@ print(flame.find_it())
 
 ## license
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## author
+
+written by:
+  Twitter - [aadilvarsh](https://www.twitter.com/aadilvars)
