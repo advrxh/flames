@@ -25,4 +25,4 @@ print(flame.find_it())
 ## author
 
 written by:
-  Twitter - [aadilvarsh](https://www.twitter.com/aadilvars)
+  Twitter - [aadilvarsh](https://www.twitter.com/aadilvarsh)
