@@ -1,5 +1,4 @@
 
-
 class Flames:
     """
     fun python module to automate the classic 90s game Flames
@@ -56,7 +55,3 @@ class Flames:
         '''
 
         return self.tags[self.flame.lower()].lower()
-
-
-if __name__ == "__main__":
-    pass
