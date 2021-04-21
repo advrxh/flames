@@ -1,0 +1,23 @@
+
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="content-section">
+<fieldset class="form-group">
+              <legend class="border-bottom mb-4">Enter Details</legend>
+              <div class="form-group">
+        <form name="start" action="/getflame" method="POST" style="width: 500px; margin: auto">
+          <label>Name A: </label>
+          <input type="text" name="nameA" class="form-control">
+          <label>Name B: </label>
+          <input type="text" name="nameB", class="form-control">
+          <input class="btn btn-primary" type="submit" value="Lets Go">
+        </form>
+      </div>
+</fieldset>
+</div>
+
+
+
+{% endblock %}
