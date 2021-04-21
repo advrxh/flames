@@ -1,20 +1,20 @@
-# pyflames
+# flames
 
-Pyflames is a simple fun package to run the classic game Flames
+flames is a simple fun package to run the classic game Flames
 
 ## Installation
 
 ```bash
-pip3 install Pyflames
+git clone https://github.com/AadilVarsh/flames.git
 ```
 
 ## Usage
 
 ```python
 
-import pyflames
+import flames
 
-flame = pyflames.Flame('John Doe', 'Jane Doe')
+flame = flames.Flame('John Doe', 'Jane Doe')
 
 print(flame.find_it())
 ```
