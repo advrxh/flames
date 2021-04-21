@@ -11,7 +11,7 @@ try:
 except:
     pass
 
-from pyflames import Flames
+from flames import Flames
 
 name_a = input('NAME - 1: ')
 name_b = input('NAME - 2: ')

@@ -11,7 +11,7 @@ try:
 except:
     pass
 
-from pyflames import Flames
+from flames import Flames
 
 
 flame = Flames('John Doe', 'Jane Doe')

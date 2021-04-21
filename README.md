@@ -8,7 +8,7 @@ Pyflames is a simple fun package to run the classic game Flames
 pip3 install Pyflames
 ```
 
-##Usage
+## Usage
 
 ```python
 
@@ -24,5 +24,7 @@ print(flame.find_it())
 
 ## author
 
-written by:
-  Twitter - [aadilvarsh](https://www.twitter.com/aadilvarsh)
+Written by:
+
+    [aadilvarsh](https://github.com/aadilvarsh)
+    [aadilvarsh-twitter](https://www.twitter.com/aadilvarsh)
